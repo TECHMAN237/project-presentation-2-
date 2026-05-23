@@ -1,0 +1,6 @@
+{
+  "name": "Smart Child Safety System",
+  "description": "A modern premium startup-style showcase website for a child protection innovation project by TekMen Revolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
